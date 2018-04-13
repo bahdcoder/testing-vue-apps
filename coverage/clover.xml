@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1523627176485" clover="3.2.0">
+  <project timestamp="1523627176485" name="All files">
+    <metrics statements="18" coveredstatements="18" conditionals="16" coveredconditionals="16" methods="8" coveredmethods="8" elements="42" coveredelements="42" complexity="0" loc="18" ncloc="18" packages="1" files="1" classes="1">
+      <file name="App.vue" path="/Users/andeladeveloper/Code/Vue/testing-vue-apps/src/App.vue">
+        <metrics statements="18" coveredstatements="18" conditionals="16" coveredconditionals="16" methods="8" coveredmethods="8"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="30" count="4" type="stmt"/>
+        <line num="33" count="4" type="stmt"/>
+        <line num="42" count="75" type="cond" truecount="16" falsecount="0"/>
+        <line num="44" count="1" type="stmt"/>
+        <line num="48" count="1" type="stmt"/>
+        <line num="50" count="1" type="stmt"/>
+        <line num="54" count="1" type="stmt"/>
+        <line num="57" count="1" type="stmt"/>
+        <line num="58" count="1" type="stmt"/>
+        <line num="60" count="1" type="stmt"/>
+        <line num="63" count="1" type="stmt"/>
+        <line num="65" count="1" type="stmt"/>
+        <line num="69" count="1" type="stmt"/>
+        <line num="70" count="1" type="stmt"/>
+        <line num="72" count="1" type="stmt"/>
+        <line num="75" count="4" type="stmt"/>
+        <line num="77" count="4" type="stmt"/>
+      </file>
+    </metrics>
+  </project>
+</coverage>
